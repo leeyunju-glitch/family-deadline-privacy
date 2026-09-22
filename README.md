@@ -1,6 +1,6 @@
-# 가족 만료일 개인정보처리방침
+# 우리집 알림장 개인정보처리방침
 
-Android 앱 「가족 만료일」의 개인정보처리방침 페이지입니다.
+Android 앱 「우리집 알림장」의 개인정보처리방침 페이지입니다.
 
 https://leeyunju-glitch.github.io/family-deadline-privacy/
 
